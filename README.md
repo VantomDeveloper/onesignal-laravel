@@ -1,7 +1,7 @@
 # OneSignal Push Notifications for Laravel
-[![Latest Stable Version](https://poser.pugx.org/berkayk/onesignal-laravel/v/stable)](https://packagist.org/packages/berkayk/onesignal-laravel)
-[![Total Downloads](https://poser.pugx.org/berkayk/onesignal-laravel/downloads)](https://packagist.org/packages/berkayk/onesignal-laravel)
-[![License](https://poser.pugx.org/berkayk/onesignal-laravel/license)](https://packagist.org/packages/berkayk/onesignal-laravel)
+[![Latest Stable Version](https://poser.pugx.org/berkayk/onesignal-laravel/v/stable)](https://packagist.org/packages/vtmdev/onesignal-laravel)
+[![Total Downloads](https://poser.pugx.org/berkayk/onesignal-laravel/downloads)](https://packagist.org/packages/vtmdev/onesignal-laravel)
+[![License](https://poser.pugx.org/berkayk/onesignal-laravel/license)](https://packagist.org/packages/vtmdev/onesignal-laravel)
 
 
 
@@ -19,7 +19,7 @@ the steps that is necessary to obtain an application id and REST API Keys.
 First, you'll need to require the package with Composer:
 
 ```sh
-composer require berkayk/onesignal-laravel
+composer require vtmdev/onesignal-laravel
 ```
 
 Afterwards, run `composer update` from your command line.
